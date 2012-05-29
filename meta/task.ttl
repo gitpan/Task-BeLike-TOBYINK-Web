@@ -1,0 +1,7 @@
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK-Web/project> <http://purl.org/NET/cpan-uri/terms#requires> "Task::HTML5" .
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK-Web/project> <http://purl.org/NET/cpan-uri/terms#requires> "URI" .
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK-Web/project> <http://purl.org/NET/cpan-uri/terms#requires> "Web::Magic" .
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK-Web/project> <http://purl.org/NET/cpan-uri/terms#requires> "XML::LibXML" .
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK-Web/project> <http://purl.org/NET/cpan-uri/terms#requires> "XML::LibXML::Devel::SetLineNumber" .
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK-Web/project> <http://purl.org/NET/cpan-uri/terms#requires> "XML::LibXML::PrettyPrint" .
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK-Web/project> <http://purl.org/NET/cpan-uri/terms#requires> "XML::LibXML::QuerySelector" .

@@ -1,0 +1,7 @@
+Task::HTML5
+URI
+Web::Magic
+XML::LibXML
+XML::LibXML::Devel::SetLineNumber
+XML::LibXML::PrettyPrint
+XML::LibXML::QuerySelector
